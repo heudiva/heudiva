@@ -5,8 +5,6 @@
 - 👨‍💻 All of my projects are available at https://github.com/heudiva
 - 💬 Ask me about React
 - 📫 How to reach me heudvias@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 <!---
