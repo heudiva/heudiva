@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend
 - 🤝 I’m looking for help with help me by following me😂
 - 👨‍💻 All of my projects are available at https://github.com/heudiva
-- 💬 Ask me about React
+- 💬 Ask me about Laravel
 - 📫 How to reach me heudvias@gmail.com
 
 
