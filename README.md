@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heudiva
+- 👋 Hi, I’m @diva
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Backend
 - 🤝 I’m looking for help with help me by following me😂
